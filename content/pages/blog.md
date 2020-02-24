@@ -1,9 +1,9 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
+title: Blog
 featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+subtitle: Documenting what it means to go from zero to dev.
 meta:
   description: This is a meta description.
   title: Blog Page
